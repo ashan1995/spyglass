@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>SignUp</title>
+    <title>Sign Up</title>
     <link rel="stylesheet" href="css/signup.css">
   </head>
   <body>
