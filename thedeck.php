@@ -5,7 +5,7 @@
   <body>
     <div class="mainCont">
 
-  <h1>Welcome to the Deck, Captain!
+  <h1>Welcome to the Deck, Captain!</h1>
     
     <h2>hi afafaf</h2>
 
